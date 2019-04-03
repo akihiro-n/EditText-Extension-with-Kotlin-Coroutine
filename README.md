@@ -1,0 +1,2 @@
+# EditText-Extension-with-Kotlin-Coroutine
+EditTextで入力された値をKotlin Coroutineで受け取るExtensionサンプルコード
